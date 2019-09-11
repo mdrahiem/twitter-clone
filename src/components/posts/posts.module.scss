@@ -1,0 +1,41 @@
+@import '../../scss/_theme.variables';
+
+.post-single-container {
+  margin-bottom: 10px;
+  border-bottom: 1px solid $light-color;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  :global {
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      span {
+        display: inline-block;
+        padding: 0 0 0 5px;
+        color: darken($light-color, 30%);
+        font-weight: 500;
+        font-size: 0.8rem;
+      }
+    }
+    .card-body {
+      padding: 5px 15px;
+    }
+  }
+}
+
+.posts-container {
+  border-left: 1px solid $light-color;
+  border-right: 1px solid $light-color;
+  :global {
+    .post-details__header {
+      border-bottom: 1px solid $light-color;
+    }
+  }
+}
+
+.add-post-form-container {
+  margin: 20px 0 0;
+  border-bottom: 5px solid $light-color;
+}

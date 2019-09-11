@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "userName": "rahiem",
+      "firstName": "Rahimuddin",
+      "password": "rahiem",
+      "id": "6f2b3b30-d3e0-11e9-8fff-bfbff8706669"
+    },
+    {
+      "userName": "neptune.papia",
+      "firstName": "Papia",
+      "password": "neptune@123",
+      "id": "e25bd6d0-d3e2-11e9-9bd1-114c2b0a92f5"
+    },
+    {
+      "userName": "mano",
+      "firstName": "Manomani",
+      "password": "mano",
+      "id": "1129fbd0-d47f-11e9-8e58-0f1e0f223529"
+    },
+    {
+      "userName": "dheeraj",
+      "firstName": "Dheeraj",
+      "password": "dheeraj",
+      "id": "51acb940-d47f-11e9-92b0-9b45f4681b45"
+    },
+    {
+      "userName": "shahid",
+      "firstName": "Shahid Khan",
+      "password": "shahid",
+      "id": "97d710a0-d47f-11e9-92b0-9b45f4681b45"
+    },
+    {
+      "userName": "poppo",
+      "firstName": "Papia Sen",
+      "password": "poppo",
+      "id": "bd45bcb0-d47f-11e9-92b0-9b45f4681b45"
+    }
+  ],
+  "posts": [
+    {
+      "message": "i'd like to take this moment to thank MapleStory and RuneScape for my 120wpm typing speed, thus paving the way for my career in software development",
+      "id": 1,
+      "timePosted": 1568196757387,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "Just finished adding my own search functionality to the Weather example from \n@FacebookOrigami\n \n\nThis. Is. How. Apps. Should. Be. Built.",
+      "id": 2,
+      "timePosted": 1568197060987,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "I'm super excited to announce that I'm joining.\n",
+      "id": 3,
+      "timePosted": 1568197451858,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "US$120 million #Dubai-grown niche insurance major ELSCECO has quickly built a global reputation to become a preferred provider of risk management services to space, aviation and energy companies from around the world.",
+      "id": 4,
+      "timePosted": 1568197802280,
+      "postedBy": "Manomani"
+    },
+    {
+      "message": "Intel officially unveils Chaco Canyon, first fanless NUC in five years https://tek.io/304DRUo",
+      "id": 5,
+      "timePosted": 1568197910426,
+      "postedBy": "Dheeraj"
+    },
+    {
+      "message": "{\\__/} \n( • . •)      \n/ >🎨 yes, I can make that for u. \n\n{\\__/}   \n( • - •)     \n🎨< \\  wait, what’s the budget?",
+      "id": 6,
+      "timePosted": 1568197973611,
+      "postedBy": "Dheeraj"
+    },
+    {
+      "message": "to me the funniest thing that people do is pretend to inspect the merchandise at a supermarket. you can’t be like ‘yeah my brain is buffering’ so you have to pantomime knowing the difference between different waters",
+      "id": 7,
+      "timePosted": 1568197981610,
+      "postedBy": "Dheeraj"
+    },
+    {
+      "message": "Whenever I do this it's less \"my brain is buffering\" and more \"where the FRICK did they put my BRAND??\"",
+      "id": 8,
+      "timePosted": 1568198030883,
+      "postedBy": "Shahid Khan"
+    },
+    {
+      "message": "\"Wow, by spending $1200 on this iPad i can save $5 a month on Apple TV+? Sign me up!\"\n\nSuddenly Apple's pivot to services makes sense.\n",
+      "id": 9,
+      "timePosted": 1568198049660,
+      "postedBy": "Shahid Khan"
+    },
+    {
+      "message": "Run Ghost blogs on your private hosts in few clicks. \nNo vendor-lock. Try for free!\nhttps://d2c.io/stackhub/ghost\n#ghost #blog #d2cio #docker",
+      "id": 11,
+      "timePosted": 1568198100190,
+      "postedBy": "Papia Sen"
+    },
+    {
+      "message": "Sleeep® PRO earplugs enable a quiet night's sleep anywhere.\nhttp://flareaudio.com/collections/sleeep",
+      "id": 13,
+      "timePosted": 1568200507375,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "Are you stuck reading through endless tutorials, but you don't feel like you're getting anywhere?",
+      "id": 14,
+      "timePosted": 1568200982819,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "What's your favorite programming language and why?\n\nI personally love Python. The syntax is straight forward and friendly, and it is so multipurpose.",
+      "id": 15,
+      "timePosted": 1568201374266,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "The best guide on RegEx (for JavaScript) I've come across! https://flaviocopes.com/javascript-regular-expressions/\n",
+      "id": 16,
+      "timePosted": 1568201418497,
+      "postedBy": "Rahimuddin"
+    },
+    {
+      "message": "#Angular #Meetup #speaker \n@namans_26\n will share share his ideas on how to build #web #components using #Angular #elements on 21st Sept, 2019, Saturday. \n",
+      "id": 17,
+      "timePosted": 1568201434933,
+      "postedBy": "Papia Sen"
+    }
+  ]
+}
